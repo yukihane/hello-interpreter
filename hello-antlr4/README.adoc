@@ -1,0 +1,1 @@
+https://github.com/antlr/antlr4/blob/master/doc/index.md を見ながらちょろっと動かしてみる
